@@ -13,7 +13,7 @@ use vars qw/@ISA/;
 
 @ISA = qw( WWW::Search );
 
-our $VERSION = '0.1';
+our $VERSION = '0.2';
 
 # TODO: Force a random delay after the first search
 # sub need_to_delay { return 0; }

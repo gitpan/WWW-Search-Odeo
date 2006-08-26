@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: WWW-Search-Odeo
-version: 0.1
+version: 0.2
 author:
   - Nick Gerakines <nick@socklabs.com>
 abstract: Find cool stuff in Odeo
